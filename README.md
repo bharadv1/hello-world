@@ -1,6 +1,5 @@
 # hello-world
 This repository is for practicing GitHub Flow
-Hey everyone,
 
 My name is Vivek Bharadwaj and I am currently a Software Engineer based in Princeton, NJ. I primarily work with Python, Java, and C#.
 
